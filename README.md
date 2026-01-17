@@ -1,5 +1,4 @@
-# HTML Mini Website Laboratory
-
+# HTML Mini Website Lab
 ## Assignment Title
 Complete HTML Exercises – Mini Website
 
@@ -10,15 +9,6 @@ lists, images, forms, tables, and semantic HTML5 elements.
 
 No CSS or JavaScript is used.
 
-## Project Structure
-html-mini-website/
-├── index.html
-├── form.html
-├── table.html
-├── semantic.html
-├── README.md
-└── images/
-    └── sample.jpg
 
 ## Steps to Run the Project
 1. Download or copy the project folder.
